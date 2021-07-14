@@ -2,10 +2,12 @@ AdLods-1.12.2-1.0.8.0-build.0504.jar
 aether-1.12.2-v1.5.3.2.jar
 AmbientSounds_v3.0.17_mc1.12.2.jar
 AoA3-3.3.6.jar
-Baubles-1.12-1.5.2 (1).jar
 buildcraft-all-7.99.24.8.jar
+CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+CoFHCore-1.12.2-4.6.6.1-universal.jar
+CoFHWorld-1.12.2-1.4.0.1-universal.jar
 coroutil-1.12.1-1.2.37.jar
-CosmeticArmorReworked-1.12.2-v5a (1).jar
+CreativeCore_v1.10.16_mc1.12.2.jar
 Cyclic-1.12.2-1.19.21.jar
 disenchanter[1.12]1.7.jar
 DivineRPG-1.7.1.jar
@@ -16,7 +18,7 @@ FTBLib-5.4.7.2.jar
 Galacticraft-Planets-1.12.2-4.0.2.280.jar
 GalacticraftCore-1.12.2-4.0.2.280.jar
 Hwyla-1.8.26-B41_1.12.2.jar
-iceandfire-1.9.1-1.12.2 (1).jar
+iceandfire-1.9.1-1.12.2.jar
 InfernalMobs-1.12.1.jar
 inventorypets-1.12-2.0.15.jar
 InventoryTweaks-1.63.jar
@@ -25,23 +27,22 @@ ironfurnaces-1.3.5.jar
 jei_1.12.2-4.15.0.291.jar
 journeymap-1.12.2-5.7.0.jar
 llibrary-1.7.19-1.12.2.jar
+longerdays-1.0.4.jar
 lost-aether-content-1.12.2-1.0.2.jar
 luckyblock-1.12.2-1.jar
 mahoutsukai-1.12.2-v1.19.21.jar
 MicdoodleCore-1.12.2-4.0.2.280.jar
 minecolonies-1.12.2-0.11.841-ALPHA-universal.jar
 MJRLegendsLib-1.12.2-1.2.1.jar
-MoBends_1.12.2-1.0.0-beta-20.06.20 (1).jar
-More-Planets-1.12.2-2.1.12-GC251 (1).jar
 multimob-1.0.5.jar
 OptiFine_1.12.2_HD_U_F5.jar
 OreExcavation-1.4.140.jar
 OresAboveDiamonds+1.12.2+v4.2.jar
-Patchouli-1.0-20 - Copy (2).jar
 primitivemobs-1.2.3a.jar
 RebornCore-1.12.2-3.19.4.529-universal.jar
 RedstoneFlux-1.12-2.1.1.1-universal.jar
 RoguelikeDungeons-1.12.2-1.8.0.jar
+SolarFluxReborn-1.12.2-12.4.11.jar
 spartanfire-0.08.jar
 SpartanWeaponry-1.12.2-beta-1.3.8.jar
 SRParasites-1.12.2v1.9.0ALPHA14.jar
@@ -52,7 +53,6 @@ ThermalExpansion-1.12.2-5.5.7.1-universal.jar
 ThermalFoundation-1.12.2-2.6.7.1-universal.jar
 ThermalInnovation-1.12.2-0.3.6.1-universal.jar
 tinyprogressions-1.12.2-3.3.34-Release.jar
-Trinkets+and+Baubles-0.31-pre-release-beta-1 - Copy - Copy.jar
-twilightforest-1.12.2-3.11.1021-universal - Copy (2).jar
+updateXirA.bat
 weather2-1.12.1-2.6.12.jar
 YABBA-1.1.2.54.jar
